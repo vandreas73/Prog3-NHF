@@ -1,0 +1,7 @@
+Lámpákat kell elhelyezni a tábla fehér mezőire az alábbi szabályok szerint:
+•	A fekete mezőkön, amiken szám is van, a szám azt mutatja, hogy hány lámpa legyen közvetlenül a fekete mező mellett (függőlegesen vagy vízszintesen).
+•	Minden lámpa az oszlopában és a sorában világít az első fekete mezőig vagy a pálya széléig.
+•	Minden fehér mező meg kell legyen világítva.
+•	Egy lámpára sem világíthat rá másik lámpa.
+Ha a fenti szabályok közül mind teljesül, akkor a feladat kész.
+Hajrá!
